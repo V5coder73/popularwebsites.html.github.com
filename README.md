@@ -7,7 +7,6 @@
 </head>
 <body>
     <h1><i>Popular Websites!</i></h1>
-    <h3>By Vincent</h3>
     <p>This is a list of popular websites I have put together as a HTML test.</p>
     <hr>
     <ul>
